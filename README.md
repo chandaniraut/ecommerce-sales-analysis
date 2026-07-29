@@ -107,39 +107,10 @@ superstore-sales-analysis/
 ├── Sample - Superstore.csv
 ├── e commerce project.ipynb
 ├── README.md
-└── images/
-    ├── monthly_sales.png
-    ├── monthly_profit.png
-    ├── category_sales.png
-    ├── category_profit.png
-    └── segment_analysis.png
 ```
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/yourusername/superstore-sales-analysis.git
-```
-
-2. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Open the notebook
-
-```bash
-jupyter notebook
-```
-
-4. Run all cells.
-
----
 
 ## 📌 Key Insights
 
