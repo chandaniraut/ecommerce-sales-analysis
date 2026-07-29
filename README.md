@@ -28,7 +28,6 @@ The project answers the following business questions:
 
 - Python
 - Pandas
-- NumPy
 - Plotly
 - Jupyter Notebook
 
